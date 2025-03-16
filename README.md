@@ -1,1 +1,1 @@
-# This is simple and pracise project of react !
+# This is simple project of react !
